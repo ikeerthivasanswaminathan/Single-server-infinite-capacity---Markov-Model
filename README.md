@@ -1,4 +1,4 @@
-# Single server with infinite capacity (M/M/1):(oo/FIFO)
+# Exp 4 - Single server with infinite capacity (M/M/1):(oo/FIFO)
 
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival of materials follow poisson process with the mean interval time 12 seconds, service time of lathe machine follows exponential distribution with mean service time 1 second and average service time of robot is 7seconds.
@@ -52,7 +52,9 @@ print("---------------------------------------------------------------")
 
 ## Output :
 
-![ex4op](https://github.com/user-attachments/assets/f4d0af51-ba66-48c2-bc4e-b10cab657b81)
+<img width="721" height="322" alt="ex4op1" src="https://github.com/user-attachments/assets/3f070704-0d6e-4066-8f45-c811b8164c3f" />
+
+<img width="708" height="373" alt="ex4op2" src="https://github.com/user-attachments/assets/396f4650-de15-4e80-b835-f9111fec344a" />
 
 ## Result :
-The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+The average number of materials in the system and in the conveyor and waiting time are successfully found.
